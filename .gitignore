@@ -1,0 +1,42 @@
+
+# Secret authentication key
+storage/baseline.key
+
+# Local baseline data
+storage/baseline.json
+
+# Temporary files
+storage/*.tmp
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# IDE files
+.vscode/
+.idea/
+
+# Secret authentication key
+storage/baseline.key
+
+# Local baseline data
+storage/baseline.json
+
+# Temporary files
+storage/*.tmp
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# IDE files
+.vscode/
+.idea/
