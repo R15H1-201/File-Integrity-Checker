@@ -267,3 +267,5 @@ Cybersecurity Student | Python Developer | Technology Enthusiast
 Built as a hands-on project to explore Python programming, cryptographic hashing, and file integrity monitoring.
 
 If you find this project useful or have suggestions for improvement, feel free to explore the repository and share your feedback.
+
+https://roadmap.sh/projects/file-integrity-checker
